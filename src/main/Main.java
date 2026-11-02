@@ -1,7 +1,7 @@
 package main;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//New feature branch change for Git merge lab
 public class Main {
     private static final ArrayList<String> students = new ArrayList<>();
 
